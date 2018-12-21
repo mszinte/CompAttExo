@@ -1,0 +1,16 @@
+
+
+	 ----------------------------------- 
+	|         Gamma calibration           |
+	 ----------------------------------- 
+
+	 Screen ID : 			r3139sony
+	 Screen distance : 		60 cm
+	 Calibration type : 	RGB linearized
+	 Creation date : 		08-Mar-2016
+	 Creation time : 		18:5
+
+	 Max RED lum. : 		1.590000e+01
+	 Max GREEN lum. : 		3.710000e+01
+	 Max BLUE lum. : 		6.630000e+00
+	 Max GRAY lum. : 		5.710000e+01
